@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChain.Businesss", "ClassLibrary1\BlockChain.Businesss.csproj", "{1163AB43-7D8F-4E8D-9E5A-A53DDC42037A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChain.InfraStructure", "InfraStructure\BlockChain.InfraStructure.csproj", "{CBB1BC66-999B-4F06-B4F2-F3E6FE8DA6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChain.Test", "Test\BlockChain.Test.csproj", "{24E67AA6-48CA-44A8-9048-8CE27FE63F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1163AB43-7D8F-4E8D-9E5A-A53DDC42037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1163AB43-7D8F-4E8D-9E5A-A53DDC42037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1163AB43-7D8F-4E8D-9E5A-A53DDC42037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1163AB43-7D8F-4E8D-9E5A-A53DDC42037A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB1BC66-999B-4F06-B4F2-F3E6FE8DA6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB1BC66-999B-4F06-B4F2-F3E6FE8DA6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB1BC66-999B-4F06-B4F2-F3E6FE8DA6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB1BC66-999B-4F06-B4F2-F3E6FE8DA6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E67AA6-48CA-44A8-9048-8CE27FE63F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E67AA6-48CA-44A8-9048-8CE27FE63F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E67AA6-48CA-44A8-9048-8CE27FE63F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E67AA6-48CA-44A8-9048-8CE27FE63F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD960FC9-8CAF-4F47-8885-675989CF0AB9}
+	EndGlobalSection
+EndGlobal
